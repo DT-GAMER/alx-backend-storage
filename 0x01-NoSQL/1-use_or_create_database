@@ -1,0 +1,4 @@
+//Create or use database in mongo
+
+use my_db
+
